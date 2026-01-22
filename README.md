@@ -3,7 +3,7 @@
 
 ## Topic and Parameters
 
-I decided to compare 3 of the top cities in Vietnam: Ho Chi Minh City, Hanoi, and Da Nang.
+Vietnam is a country known for its history and strong regional identities shaped by culture, climate and historical development. Tourism Tourism plays a major role in showcasing these regional differences as each city offers visitors a distinct experience. In this project, I decided to compare three of the top cities in Vietnam to explore how tourists engage with and perceive different regions of the country. Ho Chi Minh City, Hanoi, and Da Nang.
 The parameters I used for the each are the followings:
 - Ho Chi Minh City: ho chi minh, ho chi minh city, saigon
 - Hanoi: hanoi, ha noi, hanoi vietnam
@@ -29,7 +29,7 @@ The top words are beach, beautiful, vibrant, night, international, and popular. 
 The top words are street, pho, train, market, capital. The words are more specific here since Hanoi is the capital of Vietnam, known for their history and culture. Many people travel to Hanoi, where pho was originated from before becoming a global favorite and experience the Hanoi Train Street, which is a famous narrow alley where a train passes right in the center, extremely close to homes and cafes. The largest indoor market is also located in Hanoi, selling anywhere from clothing, home goods, and food. Other words being old, energetic, busy, unforgettable, amazing just goes to show the how the authenticity living of Hanoi leaves a lasting impression on everyone.
 
 ## Overall Comparison
-A common pattern I noticed with these words were how they were all related to food and vibrancy. Wherever you go in Vietnam, you will encounter many street vendors with amazing street food that gives you a true, authentic taste of their beloved cuisine. The atmoshphere is also very vibrant and lively. With tourists constantly coming in, attractions are more catered for the best experience. But also, Vietnamese people are naturally very friendly and fun, contributing to a rich nightlife and positive interactions. Some words only differ because each city has their own quirks. To reiterate, Ho Chi Minh offers their electrifying energy, Da Nang is a coastal city with many breathtaking scenes, and Hanoi has amazing food and history. Overall, Vietnam is a beautiful country with so many iconic, eccentric features that makes them one of the top must-visit location.
+A common pattern I noticed with these words were how they were all related to food and vibrancy. Wherever you go in Vietnam, you will encounter many street vendors with amazing street food that gives you a true, authentic taste of their beloved cuisine. The atmoshphere is also very vibrant and lively. With tourists constantly coming in, attractions are more catered for the best experience. But also, Vietnamese people are naturally very friendly and fun, contributing to a rich nightlife and positive interactions. Some words only differ because each city has their own quirks. To reiterate, Ho Chi Minh offers their electrifying energy, Da Nang is a coastal city with many breathtaking scenes, and Hanoi has amazing food and history. A lot of these videos have the same words to catch their audience eyes when skimming through their feed with trending areas and food in Vietnam. Overall, Vietnam is a beautiful country with so many iconic, eccentric features that makes them one of the top must-visit location.
 
 ---
 
